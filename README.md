@@ -9,6 +9,6 @@
   - **Email:**   muhammadhassaan1915@gmail.com
   - **LinkedIn:** www.linkedin.com/in/muhammad-hassaan-a90ba7250
 - 😄 Pronouns: He/Him  (but also "Bro" works fine).
-- ⚡ Fun fact: I uninstalled Instagram a months ago... and somehow survived.  
+- ⚡ Fun fact: I uninstalled Instagram  months ago... and somehow survived.  
 
 🚀 **Still figuring out life, but at least I’m coding my way through it.**  
