@@ -3,7 +3,8 @@
 - 👀 I’m interested in coding, gaming, and building cool projects.  
 - 🌱 I’m currently learning **Kotlin, Android development, Flutter, and AI.**  
 - 💼 I’m working on **Intern Valley**—a mobile app to connect interns and employers.  
-- 🔧 I’m also building a **smart AI-powered dustbin** as an Arduino project.  
+- 🔧 I built a smart AI-powered dustbin using Arduino, ESP32-CAM, and Edge Impulse that detects
+       and sorts biodegradable waste—video demo available on my LinkedIn..  
 - 📫 How to reach me: Just scream **"Hassaan !"** into the void—if that doesn’t work, try:  
   - **GitHub:**  [hassaan-112](https://github.com/hassaan-112)  
   - **Email:**   muhammadhassaan1915@gmail.com
