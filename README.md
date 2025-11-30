@@ -2,7 +2,7 @@
 
 - 👀 I’m into coding, gaming, and turning random ideas into working apps (sometimes intentionally). 
 - 🌱 Currently sharpening my **Flutter & Dart** skills — just finished a month-long internship working on **APIs, GetX, MVVM, Firebase**, and more.
-- 💼 I’m working on **Intern Valley**—a mobile app to connect interns and employers.  
+- 💼 I’m working on **Intern Zonw**—a mobile app to connect interns and employers.  
 - 🔧 Past project highlight: A smart **AI-powered dustbin** using Arduino, ESP32-CAM, and Edge Impulse to detect and sort biodegradable waste. (Yes, it actually works — video on LinkedIn.)  
 - 📫 How to reach me: Just scream **"Hassaan !"** into the void—if that doesn’t work, try:  
   - **GitHub:**  [hassaan-112](https://github.com/hassaan-112)  
