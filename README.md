@@ -9,6 +9,6 @@
   - **Email:**   muhammadhassaan1915@gmail.com
   - **LinkedIn:** www.linkedin.com/in/muhammad-hassaan-a90ba7250
 - 😄 Pronouns: He/Him (or “Bro” if you’re feeling casual).
-- ⚡ Fun fact: I survived uninstalling Instagram months ago… now I just scroll GitHub commits instead.  
+- ⚡ Fun fact: I survived uninstalling Instagram… now I just scroll GitHub commits instead.  
 
 **Still figuring out life, but at least I’m debugging it one error at a time.**  
