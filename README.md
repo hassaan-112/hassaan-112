@@ -26,7 +26,6 @@ Users can share photos and camera recipes, organize them into collections, disco
 
 - **Tech:** Flutter, Firebase, REST APIs, Socket.IO
 - **Platforms:** iOS, iPadOS & Android
-- **Repository:** [Recipe Room](https://github.com/hassaan-112/reciperoom)
 
 ### 🏠 Swappr
 
@@ -36,7 +35,6 @@ The platform includes property matching, messaging, notifications, address searc
 
 - **Tech:** Flutter, Node.js, TypeScript, Firebase, Socket.IO, REST APIs
 - **Platforms:** iOS & Android
-- **Repository:** [Swappr](https://github.com/ezforhamza/swapper-backend)
 
 ### 🎓 InternZone
 
